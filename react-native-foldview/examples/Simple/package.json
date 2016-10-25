@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "~15.3.1",
     "react-native": "0.36.0",
-    "react-native-foldview": "file:../../"
+    "react-native-foldview": "file:///C:\\Users\\Daniel\\Documents\\GitHub\\foldview-fun\\react-native-foldview"
   },
   "jest": {
     "preset": "jest-react-native"
